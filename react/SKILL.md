@@ -42,7 +42,7 @@ const handleOpen = () => {
   // todo
 }
 
-;<Button onClick={handleOpen} />
+<Button onClick={handleOpen} />
 ```
 
 ## Should use `useCallback` only when **reference stability matters**.
