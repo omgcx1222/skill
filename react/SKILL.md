@@ -5,7 +5,7 @@ description: Use this skill when generating or modifying React code.
 
 # Core Principles
 
-- Mmust this stack unless explicitly instructed otherwise.
+- Must this stack unless explicitly instructed otherwise.
 - Prefer simplicity over abstraction, Avoid unnecessary complexity.
 - For the naming of variables and overly complex logic, Chinese comments must be added.
 - Unless otherwise specified, do not remove the console from the original code.

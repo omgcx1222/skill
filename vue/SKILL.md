@@ -5,7 +5,7 @@ description: Use this skill when generating or modifying Vue code.
 
 # Vue
 
-参考 Vue 官方风格指南 和 Vue CLI 3 官方教程。
+参考 [Vue 官方风格指南](https://vuejs.org/style-guide/) 和 Vue CLI 3 官方教程。
 
 强制：
 
